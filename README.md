@@ -13,7 +13,7 @@ This Go project performs suffix mining on Ethereum Blob Transactions (EIP-4844).
 ## 📂 Files
 
 ### `test2.go`
-Fetches full transaction data from Ethereum mainnet using transaction hashes from `selected_hashes.csv`. 
+Fetches full transaction data from Ethereum mainnet of a particular tx hash. 
 
 ### `test6a.go`
 Reads `tx_data.csv`, reconstructs each transaction hash, performs suffix mining by adjusting `GasTipCap`, and writes the results to `suffix_mining_results.csv`.
