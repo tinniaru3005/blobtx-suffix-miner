@@ -1,7 +1,7 @@
 
 # BlobTx Suffix Miner
 
-This Go project performs suffix mining on Ethereum Blob Transactions (EIP-4844). It includes tools to:
+This Go project performs suffix mining on Ethereum Blob carrying Transactions (EIP-4844). It includes tools to:
 
 1. Fetch and decode transaction fields directly from Ethereum mainnet.
 2. Generate transaction data (`tx_data.csv`) from a list of hashes.
