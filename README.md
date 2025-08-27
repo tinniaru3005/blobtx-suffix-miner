@@ -8,8 +8,6 @@ This Go project performs suffix mining on Ethereum Blob carrying Transactions (E
 3. Reconstruct transaction hashes from transaction data.
 4. Find all 16 4-bit suffixes (`0x0` to `0xf`) by incrementing the `GasTipCap` value.
 
-[ethresear.ch post on this](https://ethresear.ch/t/a-new-design-for-das-and-sharded-blob-mempools/22537)
-
 ---
 
 ## 📂 Files
